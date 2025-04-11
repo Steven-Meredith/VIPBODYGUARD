@@ -1,0 +1,13 @@
+;;;;;;;;;;;;;Weapon export info: 2025-04-11 6:58:17 PM
+;; Special Offsets Export. April 11, 2025 6:58:17 PM
+;; down, downRight, right, upRight, up, upLeft, Left, downLeft
+
+weaponOffsetTableX:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+weaponOffsetTableY:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+projOffsetTableX:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+projOffsetTableY:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
